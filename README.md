@@ -86,4 +86,9 @@ Laravel is licensed under the [MIT license](https://opensource.org/licenses/MIT)
 ---
 
 ## 👨‍💻 Author
-Developed by **[Your Name / Team Name]** as part of the Internship / College Project.
+This project was developed as part of our Internship Project by our team:
+
+- *Hassibul Kausir* (Lead Developer)  
+- *Kuddus Ali*  
+- *Muhammed Mahmudul Hassan*  
+- *Nadir Sa Alom*
